@@ -1,16 +1,24 @@
-## Hi there 👋
+🤓 Olá, eu sou a Elle!
 
-<!--
-**ellezera/ellezera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Programação** pelo **Projeto Desenvolve** <br>
+💻 Focada em **Desenvolvimento Front-End** <br>
+🐍 Atualmente aprendendo **Python** <br>
+🗣️ Pronomes: **ela/dela**
 
-Here are some ideas to get you started:
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/gabrielleazevedopd208">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielleazevedopd208&show_icons=true&theme=dark"/>
+  </a>
+  <a href="https://github.com/gabrielleazevedopd208">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielleazevedopd208&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://picasion.com/">
+    <img src="https://i.picasion.com/pic92/e6407ed8e39e65934d934d46bdd1fb5b.gif" width="300" height="300" alt="gif animado" />
+  </a>
+  <br />
+  <a href="https://picasion.com/">
+</div>
