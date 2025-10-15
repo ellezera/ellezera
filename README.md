@@ -6,11 +6,11 @@
 🗣️ Pronomes: **ela/dela**
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/gabrielleazevedopd208">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielleazevedopd208&show_icons=true&theme=dark"/>
+  <a href="https://github.com/ellezera">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellezera&show_icons=true&theme=dark"/>
   </a>
   <a href="https://github.com/gabrielleazevedopd208">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielleazevedopd208&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellezera&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
